@@ -1,0 +1,1 @@
+A nossa aplicação foi desenvolvida com o objetivo de ser utilizado em qualquer loja de PetShop, para isso visamos agilizar e automatizar as ações do dia-a-dia dos usuários por meio de nosso sistema. Nele temos algumas funções essenciais como cadastrar,pesquisar,excluir e modificar os dados dos clientes, animais e produtos.
